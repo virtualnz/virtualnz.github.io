@@ -1,9 +1,9 @@
-# [amsf.github.io](http://amsf.github.io/)
+# [virtual.gs](http://virtual.gs)
 
-This is a demo how to make [Almace Scaffolding](http://github.com/sparanoid/almace-scaffolding) work well with [GitHub Pages](http://pages.github.com/).
+This is the source code repository of [virtual.gs](http://virtual.gs), which is hosted using [GitHub Pages](http://pages.github.com/).
 
-## Things you should take care of testing testing
+## Things to note
 
-- You should change your homepage title in [`index.html`](_amsf/_app/index.html)
-- Some variables such as `domain`, `url`, `feed`, and `name` in [`_config.yml`](_amsf/_config.yml)
-- If you changed `feed` variables in `var.yml`, you should also change permalink structure in [`feed-atom.xml`](_amsf/_app/feed-atom.xml)
+- The code is *very* messy. I am not an experienced web developer by any means
+- There are other peoples' code in this repository. For license information on their code see [here](http://virtual.gs/info)
+- The website itself is more or less ducktaped together, so it may be buggy sorry!
